@@ -1,8 +1,8 @@
-# InViEdit
+# InViEdit / Writing Study @ NAACL-BEA 2016
 
 InViEdit is a web-based writing environment for evaluating methods in intelligent writing assistance.
 
-We used InViEdit for a user study introduced at the **NAACL-BEA workshop 2016**. 
+We used InViEdit for our writing study introduced at the **NAACL-BEA workshop 2016**. We first introduced the writing environment in the corresponding long paper. 
 
 Please use the following citation:
 
@@ -15,6 +15,7 @@ Please use the following citation:
   year      = {2016},
   location  = {San Diego, CA, USA},
   pages     = {(to appear)}
+  url       = {TBA}
 }
 ```
 
