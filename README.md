@@ -14,8 +14,8 @@ Please use the following citation:
   month     = {June},
   year      = {2016},
   location  = {San Diego, CA, USA},
-  pages     = {(to appear)}
-  url       = {TBA}
+  pages     = {42--52}
+  url       = {www.aclweb.org/anthology/W/W16/W16-0505.pdf}
 }
 ```
 
