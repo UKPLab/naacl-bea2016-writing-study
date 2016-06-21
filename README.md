@@ -9,7 +9,7 @@ Please use the following citation:
 ```
 @InProceedings{Meyer:2016:BEA11,
   author    = {Meyer, Christian M. and Koch, Johann Frerik},
-  title     = {Computer-assisted stylistic revision with incomplete and noisy feedback: A pilot study},
+  title     = {Computer-assisted stylistic revision with incomplete and noisy feedback. A pilot study},
   booktitle = {Proceedings of the Eleventh Workshop on Innovative Use of NLP for Building Educational Applications},
   month     = {June},
   year      = {2016},
